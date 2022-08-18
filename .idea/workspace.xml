@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b694a0a9-d4b1-4fe4-9146-1be91d00a0e6" name="Changes" comment="ramaPersona">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b694a0a9-d4b1-4fe4-9146-1be91d00a0e6" name="Changes" comment="unionRamas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660837811686</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="unionRamas">
+      <created>1660838416011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660838416011</updated>
+    </task>
+    <task id="LOCAL-00005" summary="unionRamas">
+      <created>1660838455768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660838455768</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,7 +90,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="primeraramaintellij" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -87,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ejercicio" />
     <MESSAGE value="ramaPersona" />
-    <option name="LAST_COMMIT_MESSAGE" value="ramaPersona" />
+    <MESSAGE value="unionRamas" />
+    <option name="LAST_COMMIT_MESSAGE" value="unionRamas" />
   </component>
 </project>
